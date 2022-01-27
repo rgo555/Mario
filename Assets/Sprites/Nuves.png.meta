@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 58b03d0a87e96324584c8e45a1f9d10f
+guid: 29d844c1b165b414b981592a7abfc27b
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -106,7 +106,7 @@ TextureImporter:
         x: 0
         y: 0
         width: 48
-        height: 24
+        height: 25
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,10 +124,10 @@ TextureImporter:
       name: Nuves_1
       rect:
         serializedVersion: 2
-        x: 116
+        x: 50
         y: 0
-        width: 32
-        height: 24
+        width: 64
+        height: 25
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -145,10 +145,10 @@ TextureImporter:
       name: Nuves_2
       rect:
         serializedVersion: 2
-        x: 50
+        x: 116
         y: 0
-        width: 64
-        height: 24
+        width: 32
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

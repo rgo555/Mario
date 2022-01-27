@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 756359de280917245acd0f0d1022a328
+guid: 25d2ab0ebc5e13f459aadedb3d0b2aa4
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -49,7 +49,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 17
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -97,7 +97,7 @@ TextureImporter:
       name: Banderas_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 1
         y: 2
         width: 24
         height: 168

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: aea7695c45fd37e4083d93e8b4c967ef
+guid: 9b00c4fcb3c5e2d499f351bbc061ff35
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -53,7 +53,7 @@ TextureImporter:
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 16
-  spriteBorder: {x: 51, y: 0, z: 0, w: 0}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
@@ -100,10 +100,10 @@ TextureImporter:
       name: Montanas_0
       rect:
         serializedVersion: 2
-        x: 51
+        x: 0
         y: 0
-        width: 80
-        height: 35
+        width: 47
+        height: 19
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -121,10 +121,10 @@ TextureImporter:
       name: Montanas_1
       rect:
         serializedVersion: 2
-        x: 0
+        x: 51
         y: 0
-        width: 48
-        height: 19
+        width: 80
+        height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
